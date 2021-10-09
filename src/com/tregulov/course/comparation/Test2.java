@@ -20,6 +20,7 @@ public class Test2 {
         NameComparator nameComparator = new NameComparator();
 
         System.out.println();
+        System.out.println("I am in branch fix/1000");
 
         System.out.println("Before sorting");
         System.out.println(list);
