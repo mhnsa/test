@@ -19,7 +19,7 @@ public class Test2 {
         IdComparator idComparator = new IdComparator();
         NameComparator nameComparator = new NameComparator();
 
-
+        System.out.println();
 
         System.out.println("Before sorting");
         System.out.println(list);
